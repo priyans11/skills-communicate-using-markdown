@@ -14,3 +14,103 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+
+---
+
+Normal Text
+
+normal
+Text
+
+Normal
+
+Text
+
+---
+# H1
+## H2
+.
+
+.
+
+.
+
+.
+
+###### H6 Hashtag
+---
+**bold**
+
+__bold__
+
+*italic*
+_italic_
+
+~~stringkthrough~~
+
+---
+Text is(only visible in github)==Highlight==
+
+<mark>hightlight</mark> 
+---
+^superscript^ is x<sup>2</sup>
+
+
+~subscript~ is H<sub>2</sub>
+---
+this is `manospace`
+
+```
+what ever you like write here
+
+ok
+hmm ok cool
+
+//this is code
+int a=3
+```
+
+---
+ LINK: 
+
+[YOUTUBE](WWW.YOUTUBE.COM)
+
+[LICENSE](/LICENSE)
+
+
+https://google.com
+
+<https://google.com>
+
+---
+images
+
+
+
+![Google image](image-1.png)
+
+---
+
+>horizontal rule1
+>>horizontal rule12
+>>>horizontal rule123
+
+>>>horizontal rule3
+
+>>>horizontal rule1
+
+>>horizontal rule1
+
+>horizontal rule1
+
+>>>horizontal rule1
+>>horizontal rule1
+>horizontal rule1
+
+---
+
+same same  v:
+___
+---
+***
+```
