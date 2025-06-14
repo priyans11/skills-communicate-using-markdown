@@ -60,14 +60,14 @@ Text is(only visible in github)==Highlight==
 ---
 this is `manospace`
 
-```
+```js
 what ever you like write here
 
 ok
 hmm ok cool
 
 //this is code
-int a=3
+const a=3
 ```
 
 ---
