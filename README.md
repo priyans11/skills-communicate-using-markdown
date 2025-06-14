@@ -113,4 +113,39 @@ same same  v:
 ___
 ---
 ***
-```
+
+3 ways for line  ^:
+
+---
+
+  odered list:
+
+1. apple
+2. banana
+3. orange
+
+unordered list:
+
+* astrick
+- dash
+    * tab or 4 spaces
+        1. ok nice
++ plus
+
+---
+| name  |  age |
+|:--- |---:|
+| raju  |   30 |
+| meow |   32 |
+|  raj |    21 |
+|      |      |
+
+---
+checkbox:
+
+- [ ] unchecked
+
+- [x] checked
+
+
+
